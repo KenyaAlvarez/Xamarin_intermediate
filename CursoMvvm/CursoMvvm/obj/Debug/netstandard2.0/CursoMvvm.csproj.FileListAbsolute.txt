@@ -1,0 +1,15 @@
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\CursoMvvm.csproj.AssemblyReference.cache
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\CursoMvvm.GeneratedMSBuildEditorConfig.editorconfig
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\views\Page.xaml.g.cs
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\CursoMvvm.AssemblyInfoInputs.cache
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\CursoMvvm.AssemblyInfo.cs
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\CursoMvvm.csproj.CoreCompileInputs.cache
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\bin\Debug\netstandard2.0\CursoMvvm.deps.json
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\bin\Debug\netstandard2.0\CursoMvvm.dll
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\bin\Debug\netstandard2.0\ref\CursoMvvm.dll
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\bin\Debug\netstandard2.0\CursoMvvm.pdb
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\XamlC.stamp
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\CursoMvvm.dll
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\ref\CursoMvvm.dll
+E:\external\Proyects-Xamarin\CursoMvvm\CursoMvvm\CursoMvvm\obj\Debug\netstandard2.0\CursoMvvm.pdb
